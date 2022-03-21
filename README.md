@@ -44,13 +44,13 @@ Edit Nomor Owner DLL `'./settings/setting.json'`
 
 ```ts
 {
-"BotName":"NanaBotz",
-"OwnerNumber":"62857890047322",
-"OwnerName":"LexxyOFC",
+"BotName":"𝐌𝐈𝐀𝐍 𝐁𝐎𝐓𝐙😈",
+"OwnerNumber":"923430436852",
+"OwnerName":"𝐌𝐈𝐀𝐍 𝐎𝐅𝐂😈",
 
-"GithubOwner":"https://github.com/Lexxy24",
-"YoutubeOwner":"https://youtube.com/c/LEX4YOUU",
-"GroupOwner":"https://chat.whatsapp.com/DiexeOhNqQv5Qsm6Y2vD4d"
+"GithubOwner":"https://github.com/mianafzaal",
+"YoutubeOwner":"https:/lol",
+"GroupOwner":"https://🙃"
 }
 ```
 
