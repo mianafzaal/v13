@@ -4,8 +4,8 @@
 <p align="center">
     <a href="https://Lexxy24.github.io">
         <img
-            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+Lexxy+Official+🌐"
-            alt="Lexxy Official"
+            src="https://readme-typing-svg.herokuapp.com?size=15&width=280&lines=Created+By+𝐌𝐈𝐀𝐍👻+🌐"
+            alt="𝐌𝐈𝐀𝐍👻"
         />
     </a>
 </p>
@@ -15,7 +15,7 @@
 
 Click the deploy icon below !
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Lexxy24/v13)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/mianafzaal/v13)
 
 ```bash
  > heroku/nodejs
@@ -33,9 +33,9 @@ Click the deploy icon below !
 > pkg install ffmpeg
 > termux-setup-storage
 > cd /sdcard/v13
-> git clone https://github.com/Lexxy24/v13.git
+> git clone https://github.commianafzaal/v13.git
 > cd v13
-> git clone https://github.com/Lexxy24/node_modules
+> git clone https://github.com/mianafzaal/node_modules
 > npm start
 ```
 
@@ -57,4 +57,4 @@ Edit Nomor Owner DLL `'./settings/setting.json'`
 # My Sosial
 - [Group ](https://chat.whatsapp.com/EU890BcXjyBDkNaUT5WmYV)
 - [YouTube ](https://youtube.com/c/LEX4YOUU)
-- [Whatsapp ](https://wa.me/6285789004732)
+- [Whatsapp ](https://wa.me/923430436852)
