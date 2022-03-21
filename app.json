@@ -1,7 +1,7 @@
 {
-  "name": "Nana-Bot",
-  "description": "WhatsApp Bot Using WhatsApp Api Library Created By Lexxy",
-  "repository": "https://github.com/Lexxy24/runtime",
-  "logo": "https://github.com/Lexxy24/runtime/blob/master/gambar/menu.jpg",
-  "keywords": ["Lexxy", "Bot WhatsApp","Heroku bot"]
+  "name": "Mian-Bot",
+  "description": "WhatsApp Bot Using WhatsApp Api Library Created By Mian",
+  "repository": "https://github.com/mianafzaal/runtime",
+  "logo": "https://github.com/mianafzaal/runtime/blob/master/gambar/menu.jpg",
+  "keywords": ["Mian", "Bot WhatsApp","Heroku bot"]
 }
