@@ -33,7 +33,7 @@ Click the deploy icon below !
 > pkg install ffmpeg
 > termux-setup-storage
 > cd /sdcard/v13
-> git clone https://github.commianafzaal/v13.git
+> git clone https://github.com/mianafzaal/v13.git
 > cd v13
 > git clone https://github.com/mianafzaal/node_modules
 > npm start
